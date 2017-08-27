@@ -1,0 +1,8 @@
+name: SpeedCodingEP1
+version: 1.0
+author: lekawik
+main: fr.lekawik.speedcoding.SpeedCoding
+commands:
+  spawn:
+  gm:
+  
